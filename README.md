@@ -16,8 +16,8 @@ The **Intelligent Resume Parsing & Matching Platform** is a full-stack web appli
 
 * **Frontend:** React.js, HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js
-* **Parsing:** PDF Parser / Resume Parsing API
-* **Database:** MongoDB (if used)
+* **Parsing:** PDF Parser
+* **Database:** MongoDB 
 
 ## Getting Started
 
