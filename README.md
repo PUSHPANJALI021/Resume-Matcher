@@ -1,10 +1,10 @@
 # Intelligent Resume Parsing & Matching Platform
 
-## 📌 Overview
+##  Overview
 
 The **Intelligent Resume Parsing & Matching Platform** is a full-stack web application that allows users to upload resumes in PDF format, automatically extracts key information such as **name, contact details, skills, education, and work experience**, and displays the parsed data through an intuitive dashboard. The project demonstrates how modern recruitment systems and Applicant Tracking Systems (ATS) automate resume screening.
 
-## 🚀 Features
+## Features
 
 * Upload resumes in PDF format
 * Automatic resume parsing
@@ -12,14 +12,14 @@ The **Intelligent Resume Parsing & Matching Platform** is a full-stack web appli
 * User-friendly dashboard to view parsed information
 * Fast and responsive full-stack application
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** React.js, HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js
 * **Parsing:** PDF Parser / Resume Parsing API
 * **Database:** MongoDB (if used)
 
-## ▶️ Getting Started
+## Getting Started
 
 ```bash
 # Install dependencies
