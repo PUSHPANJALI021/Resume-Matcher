@@ -33,7 +33,7 @@ cd client
 npm start
 ```
 
-## 📄 License
+
 
 
 
