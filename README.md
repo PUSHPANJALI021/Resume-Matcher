@@ -1,6 +1,6 @@
 # Intelligent Resume Parsing & Matching Platform
 
-##  Overview
+
 
 The **Intelligent Resume Parsing & Matching Platform** is a full-stack web application that allows users to upload resumes in PDF format, automatically extracts key information such as **name, contact details, skills, education, and work experience**, and displays the parsed data through an intuitive dashboard. The project demonstrates how modern recruitment systems and Applicant Tracking Systems (ATS) automate resume screening.
 
